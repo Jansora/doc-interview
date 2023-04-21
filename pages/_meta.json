@@ -1,9 +1,13 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
+  "index": {
+    "type": "page",
+    "title": "Jansora's Document",
+    "display": "hidden",
+    "theme": {
+    }
+  },
+  "algorithms": {
+    "title": "数据结构与算法",
     "type": "page"
   },
   "contact": {
